@@ -20,8 +20,10 @@ pip install python==3.8+
 # Ejecución
 python login_system.py
 ```
+```mermaid
 pie
     title Stack Tecnológico
     "Python" : 60
     "Tkinter" : 30
     "TTK Widgets" : 10
+```
