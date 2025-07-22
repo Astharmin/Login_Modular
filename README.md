@@ -20,7 +20,7 @@ pip install python==3.8+
 # Ejecución
 python login_system.py
 ```
-##🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 ```mermaid
 pie
     title Stack Tecnológico
