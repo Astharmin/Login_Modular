@@ -6,8 +6,6 @@
 
 > *"Interfaz de login segura y elegante para tus aplicaciones de escritorio"*
 
-![Demo del Login](https://via.placeholder.com/400x250?text=Login+Interface+Preview)
-
 ## 🌟 Características Principales
 - 🖼️ Interfaz gráfica limpia y responsive
 - 🔐 Campo de contraseña enmascarado
